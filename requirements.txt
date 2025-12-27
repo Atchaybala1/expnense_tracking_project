@@ -1,0 +1,7 @@
+joblib
+FLask
+sklearn
+nltk
+re
+pandas
+pickle
